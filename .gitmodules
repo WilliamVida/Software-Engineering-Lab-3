@@ -1,0 +1,3 @@
+[submodule ".guides/secure/hw-rails-intro-ci"]
+	path = .guides/secure/hw-rails-intro-ci
+	url = git@github.com:saasbook/hw-rails-intro-ci.git
